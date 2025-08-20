@@ -1,2 +1,5 @@
 # Configurações locais
 config.sh
+
+# Arquivos do sistema
+.DS_Store
